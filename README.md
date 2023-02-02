@@ -1,5 +1,4 @@
 # Romain Lavidalie
-*Computer Graphics Developer for 2d3D Animations*
 
 Hi, I'm Romain ! I'm an aspiring video game developer, currently studying at Cnam-Enjmin.
 
